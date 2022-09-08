@@ -1,2 +1,1 @@
-ls
-'sdkcovldcp[sdfkp'sd'[
+My first C programming
