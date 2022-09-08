@@ -1,0 +1,2 @@
+ls
+'sdkcovldcp[sdfkp'sd'[
